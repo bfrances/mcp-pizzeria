@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Margherita",
+    "ingredients": ["tomate", "mozzarella", "basilic"],
+    "price": 7.5,
+    "allergens": ["lait"]
+  },
+  {
+    "name": "Regina",
+    "ingredients": ["tomate", "mozzarella", "jambon", "champignons"],
+    "price": 9.2,
+    "allergens": ["lait"]
+  },
+  {
+    "name": "4 Fromages",
+    "ingredients": ["tomate", "mozzarella", "gorgonzola", "emmental", "parmesan"],
+    "price": 10.5,
+    "allergens": ["lait"]
+  },
+  {
+    "name": "Napolitaine",
+    "ingredients": ["tomate", "mozzarella", "anchois", "olives", "câpres", "origan"],
+    "price": 10.2,
+    "allergens": ["lait", "poisson"]
+  },
+  {
+    "name": "Végétarienne",
+    "ingredients": ["tomate", "mozzarella", "poivrons", "oignons", "champignons", "olives"],
+    "price": 9.8,
+    "allergens": ["lait"]
+  },
+  {
+    "name": "Hawaïenne",
+    "ingredients": ["tomate", "mozzarella", "jambon", "ananas"],
+    "price": 10.0,
+    "allergens": ["lait"]
+  },
+  {
+    "name": "Quatre Saisons",
+    "ingredients": ["tomate", "mozzarella", "jambon", "artichauts", "champignons", "olives"],
+    "price": 11.2,
+    "allergens": ["lait"]
+  },
+  {
+    "name": "Capricciosa",
+    "ingredients": ["tomate", "mozzarella", "jambon", "champignons", "artichauts", "olives"],
+    "price": 11.0,
+    "allergens": ["lait"]
+  },
+  {
+    "name": "Calzone",
+    "ingredients": ["tomate", "mozzarella", "jambon", "champignons", "œuf"],
+    "price": 11.5,
+    "allergens": ["lait", "œuf"]
+  },
+  {
+    "name": "BBQ Chicken",
+    "ingredients": ["tomate", "mozzarella", "poulet", "sauce barbecue", "oignons rouges"],
+    "price": 11.9,
+    "allergens": ["lait", "sulfites"]
+  }
+]
